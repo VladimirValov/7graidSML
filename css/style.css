@@ -1,0 +1,21 @@
+form {
+    width: 50%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+div {
+    margin: 10px;
+}
+div.button {
+    text-align: center;
+}
+span {
+    display: inline-block;
+    width: 30%;
+}
+input[type="button"] {
+    width: 30%;
+}
+#status {
+    text-align: center;
+}
